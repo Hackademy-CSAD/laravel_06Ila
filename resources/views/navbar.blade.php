@@ -9,7 +9,34 @@
             <ul class="navbar-nav">
                 <li class="nav-item">
                     <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    <div class="container">
+                        <div class="row-4">
+                          <div class="col-12">
+                            home
+                          </div>
+                          <div class="row-4">
+                          <div class="col">
+                            leggends
+                          </div>
+                          <div class="row-4">
+                          <div class="col-12">
+                            contattaci
+                          </div>
+                        </div>
+                      </div>
                 </li>
+                <ol>
+                    <li>
+                        giallo
+                    </li>
+                    <li>
+                        magenta
+                    </li>
+                    <li>
+                        indaco
+                    </li>
+                    
+                </ol>
                 <li class="nav-item">
                     <a class="nav-link" href="/">tipology</a>
                 </li>
